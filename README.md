@@ -1,5 +1,5 @@
 # Truffle Simple Storage Example
-### This is a beginner guide for Truffle based on the video of EatTheBlocks with some personal notes. 
+This is a beginner guide for Truffle based on the video of EatTheBlocks with some personal notes. 
 
 ## Truffle Tutorial for Beginners | Compile, Test & Deploy Smart contracts to any EVM Blockchain
 https://www.youtube.com/watch?v=62f757RVEvU
